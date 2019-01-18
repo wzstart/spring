@@ -23,7 +23,7 @@
 		<author>The MyBatis Team</author>
 		<title>Changes</title>
 	</properties>
-
+垃圾
 	<body>
 		<release version="1.2.1" date="2013-09-30" description="1.2.1 release">
 			<action type="fix" issue="9">
